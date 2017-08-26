@@ -18,8 +18,8 @@ function initialize() {
         event.preventDefault();
     });
 
-    $('#inputRange1Mice').on('change',function(e){
-        console.log(e.target.value);
+    $('#inputRange1Mice').on('input',function(e){
+        // console.log(e.target.value);
         if(e.target.value == 1) {
             $("#mouseLabel").text("mouse");
             // $("#group-mice-label").text("mouse");
