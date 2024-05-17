@@ -2,7 +2,7 @@
 
 This was a freeCodeCamp bootstrap &amp; jQuery project I had fun with.
 
-[http://spycats.netlify.com/](http://spycats.netlify.com/)
+[http://spycats.netlify.app/](https://spycats.netlify.app/)
 
 ![Screenshot 1](images/netlify-spycats-wide1.png)
 
